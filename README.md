@@ -160,17 +160,19 @@ phishing-detection-project/
 - **F1-Score (Spam)**: 94%
 - **ROC-AUC**: 0.95
 
-Full results available in `docs/results.md`.
+![CLASSIFICATION REPORT](images/Classification.png)
+
+Full results available in `images/Classification.png`.
 
 ---
 
 ## Demo Screenshots
 
 ### GUI Detector
-![GUI Detector with ROC-AUC and Explainability](docs/demo_gui.png)
+![GUI Detector with ROC-AUC and Explainability](images/demo_gui.png)
 
 ### GUI Quiz
-![GUI Quiz](docs/demo_quiz_gui.png)
+![GUI Quiz](images/demo_quiz_gui.png)
 
 ---
 
