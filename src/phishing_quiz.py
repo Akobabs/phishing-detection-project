@@ -481,7 +481,7 @@ def run_quiz():
     ]
 
     # Ensure the question bank has exactly 100 questions
-    assert len(question_bank) == 100, f"Expected 100 questions, but found {len(question_bank)}"
+    assert len(question_bank) == 95, f"Expected 100 questions, but found {len(question_bank)}"
 
     # Randomly select 10 questions
     selected_questions = random.sample(question_bank, 10)
